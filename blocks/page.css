@@ -3,9 +3,8 @@
   background-color: #2A2C2F;
   color: #FFFFFF;
   font-family: "Inter", Arial, sans-serif;
+    min-height: 100vh; /* ← aquí ahora */
+
 }
 
-.page__content {
-  min-height: 100vh;
-}
 
