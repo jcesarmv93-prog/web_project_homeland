@@ -31,6 +31,12 @@ Se implementó una estructura modular siguiendo la metodología BEM.
 - Git y GitHub Pages
 
 ---
+(https://jcesarmv93-prog.github.io/web_project_homeland/)
 
-## 📂 Estructura del proyecto
+
+
+
+
+
+
 
